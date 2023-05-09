@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "jar": {
+    "filename": "WhatsAppSenderG.jar",
+    "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/blob/main/WhatsAppSenderG.jar",
+    "checksum": "ab2b71ff525fb2d3775e1995a2471b53"
+  },
+  "libraries": [
+    {
+      "name": "library1",
+      "version": "1.2.3",
+      "filename": "library1.jar",
+      "url": "https://github.com/myusername/library1/releases/download/v1.2.3/library1.jar",
+      "checksum": "123456ABCDEF7890"
+    },
+    {
+      "name": "library2",
+      "version": "4.5.6",
+      "filename": "library2.jar",
+      "url": "https://github.com/myusername/library2/releases/download/v4.5.6/library2.jar",
+      "checksum": "7890ABCDE123456"
+    }
+  ]
+}
