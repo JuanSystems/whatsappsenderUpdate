@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "versionlibraries":"1.0.4",
+  "version": "1.0.9",
+  "versionlibraries":"1.0.5",
   "jar": {
     "filename": "WhatsAppSenderG.jar",
     "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/WhatsAppSenderG.jar",
@@ -12,7 +12,7 @@
       "name": "commons-exec-1.3.jar",
       "version": "1.3",
       "filename": "commons-exec.jar",
-      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/row/main/lib/commons-exec-1.3.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/commons-exec-1.3.jar",
       "checksum": "123456ABCDEF7890"
     },
 	{
