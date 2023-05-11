@@ -168,13 +168,6 @@
       "name": "webdrivermanager.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/webdrivermanager-5.3.2.jar",
       "checksum": "7890ABCDE123456"
-    },
-	{
-      "filename": "webdrivermanager-5.3.2.jar",
-      "version": "5.3.2",
-      "name": "webdrivermanagerfull.jar",
-      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/webdrivermanager-5.3.2.jar",
-      "checksum": "7890ABCDE123456"
     }
   ]
 }
