@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "versionlibraries":"1.0.7",
+  "version": "1.1.2",
+  "versionlibraries":"1.0.8",
   "jar": {
     "filename": "WhatsAppSenderG.jar",
     "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/WhatsAppSenderG.jar",
@@ -9,163 +9,163 @@
   },
   "libraries": [
     {
-      "name": "commons-exec-1.3.jar",
+      "filename": "commons-exec-1.3.jar",
       "version": "1.3",
-      "filename": "commons-exec.jar",
+      "name": "commons-exec.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/commons-exec-1.3.jar",
       "checksum": "123456ABCDEF7890"
     },
 	{
-      "name": "google-api-client-2.2.0.jar",
+      "filename": "google-api-client-2.2.0.jar",
       "version": "2.2.0",
-      "filename": "google-api-client.jar",
+      "name": "google-api-client.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/google-api-client-2.2.0.jar",
       "checksum": "123456ABCDEF7890"
     },
     {
-      "name": "google-api-services-drive-v3-rev20230423-2.0.0.jar",
+      "filename": "google-api-services-drive-v3-rev20230423-2.0.0.jar",
       "version": "2.0.0",
-      "filename": "google-api-services-drive-v3.jar",
+      "name": "google-api-services-drive-v3.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/google-api-services-drive-v3-rev20230423-2.0.0.jar",
       "checksum": "7890ABCDE123456"
     },
 	{
-      "name": "google-auth-library-credentials-1.16.1.jar",
+      "filename": "google-auth-library-credentials-1.16.1.jar",
       "version": "1.16.1",
-      "filename": "google-auth-library-credentials.jar",
+      "name": "google-auth-library-credentials.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/google-auth-library-credentials-1.16.1.jar",
       "checksum": "123456ABCDEF7890"
     },
     {
-      "name": "google-auth-library-oauth2-http-1.16.1.jar",
+      "filename": "google-auth-library-oauth2-http-1.16.1.jar",
       "version": "1.16.1",
-      "filename": "google-auth-library-oauth2-http.jar",
+      "name": "google-auth-library-oauth2-http.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/google-auth-library-oauth2-http-1.16.1.jar",
       "checksum": "7890ABCDE123456"
     },
 	{
-      "name": "google-http-client-1.42.3.jar",
+      "filename": "google-http-client-1.42.3.jar",
       "version": "1.42.3",
-      "filename": "google-http-client.jar",
+      "name": "google-http-client.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/google-http-client-1.42.3.jar",
       "checksum": "123456ABCDEF7890"
     },
     {
-      "name": "google-http-client-gson-1.43.1.jar",
+      "filename": "google-http-client-gson-1.43.1.jar",
       "version": "1.43.1",
-      "filename": "google-http-client-gson.jar",
+      "name": "google-http-client-gson.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/google-http-client-gson-1.43.1.jar",
       "checksum": "7890ABCDE123456"
     },
 	{
-      "name": "google-http-client-jackson2-1.43.1.jar",
+      "filename": "google-http-client-jackson2-1.43.1.jar",
       "version": "1.43.1",
-      "filename": "google-http-client-jackson.jar",
+      "name": "google-http-client-jackson.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/google-http-client-jackson2-1.43.1.jar",
       "checksum": "123456ABCDEF7890"
     },
     {
-      "name": "google-oauth-client-1.34.1.jar",
+      "filename": "google-oauth-client-1.34.1.jar",
       "version": "1.34.1",
-      "filename": "google-oauth-client.jar",
+      "name": "google-oauth-client.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/google-oauth-client-1.34.1.jar",
       "checksum": "7890ABCDE123456"
     },
 	{
-      "name": "gson-2.10.1.jar",
+      "filename": "gson-2.10.1.jar",
       "version": "2.10.1",
-      "filename": "gson.jar",
+      "name": "gson.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/gson-2.10.1.jar",
       "checksum": "123456ABCDEF7890"
     },
     {
-      "name": "guava-25.0-jre.jar",
+      "filename": "guava-25.0-jre.jar",
       "version": "25.0",
-      "filename": "guava.jar",
+      "name": "guava.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/guava-25.0-jre.jar",
       "checksum": "7890ABCDE123456"
     },
 	{
-      "name": "jsoup-1.16.1.jar",
+      "filename": "jsoup-1.16.1.jar",
       "version": "1.16.1",
-      "filename": "jsoup.jar",
+      "name": "jsoup.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/jsoup-1.16.1.jar",
       "checksum": "123456ABCDEF7890"
     },
     {
-      "name": "JTattoo-1.6.13.jar",
+      "filename": "JTattoo-1.6.13.jar",
       "version": "1.6.13",
-      "filename": "JTattoo.jar",
+      "name": "JTattoo.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/JTattoo-1.6.13.jar",
       "checksum": "7890ABCDE123456"
     },
 	{
-      "name": "okhttp-3.11.0.jar",
+      "filename": "okhttp-3.11.0.jar",
       "version": "3.11.0",
-      "filename": "okhttp.jar",
+      "name": "okhttp.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/okhttp-3.11.0.jar",
       "checksum": "123456ABCDEF7890"
     },
     {
-      "name": "okio-1.14.0.jar",
+      "filename": "okio-1.14.0.jar",
       "version": "1.14.0",
-      "filename": "okio.jar",
+      "name": "okio.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/okio-1.14.0.jar",
       "checksum": "7890ABCDE123456"
     },
 	{
-      "name": "selenium-api-3.141.59.jar",
+      "filename": "selenium-api-3.141.59.jar",
       "version": "3.141.59",
-      "filename": "selenium-api.jar",
+      "name": "selenium-api.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/selenium-api-3.141.59.jar",
       "checksum": "123456ABCDEF7890"
     },
     {
-      "name": "selenium-chrome-driver-3.141.59.jar",
+      "filename": "selenium-chrome-driver-3.141.59.jar",
       "version": "3.141.59",
-      "filename": "selenium-chrome-driver.jar",
+      "name": "selenium-chrome-driver.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/selenium-chrome-driver-3.141.59.jar",
       "checksum": "7890ABCDE123456"
     },
 	{
-      "name": "selenium-devtools-v91-4.0.0-beta-4.jar",
+      "filename": "selenium-devtools-v91-4.0.0-beta-4.jar",
       "version": "4.0.0",
-      "filename": "selenium-devtools-v91.jar",
+      "name": "selenium-devtools-v91.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/selenium-devtools-v91-4.0.0-beta-4.jar",
       "checksum": "123456ABCDEF7890"
     },
     {
-      "name": "selenium-java-4.8.3.jar",
+      "filename": "selenium-java-4.8.3.jar",
       "version": "4.8.3",
-      "filename": "selenium-java.jar",
+      "name": "selenium-java.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/selenium-java-4.8.3.jar",
       "checksum": "7890ABCDE123456"
     },
 	{
-      "name": "selenium-remote-driver-3.141.59.jar",
+      "filename": "selenium-remote-driver-3.141.59.jar",
       "version": "3.141.59",
-      "filename": "selenium-remote-driver.jar",
+      "name": "selenium-remote-driver.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/selenium-remote-driver-3.141.59.jar",
       "checksum": "123456ABCDEF7890"
     },
     {
-      "name": "selenium-support-3.141.59.jar",
+      "filename": "selenium-support-3.141.59.jar",
       "version": "3.141.59",
-      "filename": "selenium-support.jar",
+      "name": "selenium-support.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/selenium-support-3.141.59.jar",
       "checksum": "7890ABCDE123456"
     },
 	{
-      "name": "thumbnailator-0.4.8.jar",
+      "filename": "thumbnailator-0.4.8.jar",
       "version": "0.4.8",
-      "filename": "thumbnailator.jar",
+      "name": "thumbnailator.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/thumbnailator-0.4.8.jar",
       "checksum": "123456ABCDEF7890"
     },
     {
-      "name": "webdrivermanager-5.3.2.jar",
+      "filename": "webdrivermanager-5.3.2.jar",
       "version": "5.3.2",
-      "filename": "webdrivermanager.jar",
+      "name": "webdrivermanager.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/webdrivermanager-5.3.2.jar",
       "checksum": "7890ABCDE123456"
     }
