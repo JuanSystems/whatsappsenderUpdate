@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "versionlibraries":"1.1.6",
+  "version": "1.2.1",
+  "versionlibraries":"1.1.7",
   "jar": {
     "filename": "WhatsAppSenderG.jar",
     "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/WhatsAppSenderG.jar",
@@ -14,62 +14,6 @@
       "name": "commons-exec.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/commons-exec-1.3.jar",
       "checksum": "123456ABCDEF7890"
-    },
-	{
-      "filename": "google-api-client-2.2.0.jar",
-      "version": "2.2.0",
-      "name": "google-api-client.jar",
-      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/google-api-client-2.2.0.jar",
-      "checksum": "123456ABCDEF7890"
-    },
-    {
-      "filename": "google-api-services-drive-v3-rev20230423-2.0.0.jar",
-      "version": "2.0.0",
-      "name": "google-api-services-drive-v3.jar",
-      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/google-api-services-drive-v3-rev20230423-2.0.0.jar",
-      "checksum": "7890ABCDE123456"
-    },
-	{
-      "filename": "google-auth-library-credentials-1.16.1.jar",
-      "version": "1.16.1",
-      "name": "google-auth-library-credentials.jar",
-      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/google-auth-library-credentials-1.16.1.jar",
-      "checksum": "123456ABCDEF7890"
-    },
-    {
-      "filename": "google-auth-library-oauth2-http-1.16.1.jar",
-      "version": "1.16.1",
-      "name": "google-auth-library-oauth2-http.jar",
-      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/google-auth-library-oauth2-http-1.16.1.jar",
-      "checksum": "7890ABCDE123456"
-    },
-	{
-      "filename": "google-http-client-1.42.3.jar",
-      "version": "1.42.3",
-      "name": "google-http-client.jar",
-      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/google-http-client-1.42.3.jar",
-      "checksum": "123456ABCDEF7890"
-    },
-    {
-      "filename": "google-http-client-gson-1.43.1.jar",
-      "version": "1.43.1",
-      "name": "google-http-client-gson.jar",
-      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/google-http-client-gson-1.43.1.jar",
-      "checksum": "7890ABCDE123456"
-    },
-	{
-      "filename": "google-http-client-jackson2-1.43.1.jar",
-      "version": "1.43.1",
-      "name": "google-http-client-jackson.jar",
-      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/google-http-client-jackson2-1.43.1.jar",
-      "checksum": "123456ABCDEF7890"
-    },
-    {
-      "filename": "google-oauth-client-1.34.1.jar",
-      "version": "1.34.1",
-      "name": "google-oauth-client.jar",
-      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/google-oauth-client-1.34.1.jar",
-      "checksum": "7890ABCDE123456"
     },
 	{
       "filename": "gson-2.10.1.jar",
@@ -167,13 +111,6 @@
       "version": "5.3.2",
       "name": "webdrivermanager.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/webdrivermanager-5.3.2.jar",
-      "checksum": "7890ABCDE123456"
-    },
-	{
-      "filename": "checker-compat-qual-2.5.5.jar",
-      "version": "2.5.5",
-      "name": "checker-compat-qual.jar",
-      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/checker-compat-qual-2.5.5.jar",
       "checksum": "7890ABCDE123456"
     }
   ]
