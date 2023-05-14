@@ -13,98 +13,91 @@
       "version": "1.3",
       "name": "commons-exec.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/commons-exec-1.3.jar",
-      "checksum": "8dfb9facd0830a27b1b5f29f84593f0aeee7773b"
+      "checksum": "cb49812dc1bfb0ea4f20f398bcae1a88c6406e213e67f7524fb10d4f8ad9347b"
     },
 	{
       "filename": "gson-2.10.1.jar",
       "version": "2.10.1",
       "name": "gson.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/gson-2.10.1.jar",
-      "checksum": "b3add478d4382b78ea20b1671390a858002feb6c"
+      "checksum": "4241c14a7727c34feea6507ec801318a3d4a90f070e4525681079fb94ee4c593"
     },
     {
       "filename": "guava-25.0-jre.jar",
       "version": "25.0",
       "name": "guava.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/guava-25.0-jre.jar",
-      "checksum": "7319c34fa5866a85b6bad445adad69d402323129"
+      "checksum": "73fd4341776428c7e0e5c18a7c10de129475b69ab9d30aeafbb5c277bb6074fa9"
     },
 	{
       "filename": "jsoup-1.16.1.jar",
       "version": "1.16.1",
       "name": "jsoup.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/jsoup-1.16.1.jar",
-      "checksum": "ae551410a16433984cd4a8603622fafa9d8299f0"
+      "checksum": "1f115726540ddf71958c14bc517ebfc49cf481e91cd917b0face84f01272e901"
     },
     {
       "filename": "JTattoo-1.6.13.jar",
       "version": "1.6.13",
       "name": "JTattoo.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/JTattoo-1.6.13.jar",
-      "checksum": "d6cea12f39f6422c8bba8abf33bdd876ae80249e"
+      "checksum": "e7be443a9e6f611efcfb6c3da975f3c5b7e5eb74b7aec81c906419bcfef9e02d"
     },
 	{
       "filename": "selenium-api-3.141.59.jar",
       "version": "3.141.59",
       "name": "selenium-api.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/selenium-api-3.141.59.jar",
-      "checksum": "e006ffd3aa7841e6e9125d9e6691b3a6b7592b05"
+      "checksum": "8bfd5a736eccfc08866301ffc9b7f529e55976355c5799bed8392486df64dee5"
     },
     {
       "filename": "selenium-chrome-driver-3.141.59.jar",
       "version": "3.141.59",
       "name": "selenium-chrome-driver.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/selenium-chrome-driver-3.141.59.jar",
-      "checksum": "67137314736c6a2f39a8aa59a562e9616ae5f77e"
+      "checksum": "716948b82695f2acb82f9aed23bc2b421714bb0966364146ef62b2cfae276dd0"
     },
 	{
       "filename": "selenium-devtools-v91-4.0.0-beta-4.jar",
       "version": "4.0.0",
       "name": "selenium-devtools-v91.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/selenium-devtools-v91-4.0.0-beta-4.jar",
-      "checksum": "74e1e8baa4f85723ad8ce41f5fd79c0a9cbbb723"
+      "checksum": "3be58d31b3fc43eab05d50255db71d32738714f2eaf0ff314b940f85b32e1892"
     },
     {
       "filename": "selenium-java-4.8.3.jar",
       "version": "4.8.3",
       "name": "selenium-java.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/selenium-java-4.8.3.jar",
-      "checksum": "7890ABCDE123456"
+      "checksum": "42b87c6e78d7261426405610c8286a58a58006dc191781e3930aca8e66cbdee8"
     },
 	{
       "filename": "selenium-remote-driver-3.141.59.jar",
       "version": "3.141.59",
       "name": "selenium-remote-driver.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/selenium-remote-driver-3.141.59.jar",
-      "checksum": "18cef0adbc08d152da07b234a04f6e8240ce215f"
+      "checksum": "9829fe57adf36743d785d0c2e7db504ba3ba0a3aacac652b8867cc854d2dfc45"
     },
     {
       "filename": "selenium-support-3.141.59.jar",
       "version": "3.141.59",
       "name": "selenium-support.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/selenium-support-3.141.59.jar",
-      "checksum": "8735de5049acf0e761defc65ee5837d6541abaf5"
+      "checksum": "2c74196d15277ce6003454d72fc3434091dbf3ba65060942719ba551509404d8"
     },
 	{
       "filename": "thumbnailator-0.4.8.jar",
       "version": "0.4.8",
       "name": "thumbnailator.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/thumbnailator-0.4.8.jar",
-      "checksum": "4f10c440dd7776630aee9da4611a45032db1e041"
+      "checksum": "baa81866b0d0cb3bdbb3a2c5141e3f91e1f037baa94b7efc645b2be0b7f1d95c"
     },
     {
       "filename": "webdrivermanager-5.3.2.jar",
       "version": "5.3.2",
       "name": "webdrivermanager.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/webdrivermanager-5.3.2.jar",
-      "checksum": "a63ced3a4dd0c1a4fea105f16249ccf7489305d0"
-    },
-	{
-      "filename": "checker-compat-qual-2.5.5.jar",
-      "version": "2.5.5",
-      "name": "checker-compat-qual.jar",
-      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/checker-compat-qual-2.5.5.jar",
-      "checksum": "7890ABCDE123456"
+      "checksum": "9c73903049f7b28387eed526cf32d31a0eca3a98068fa3132a598219d0f3345b"
     }
   ]
 }
