@@ -1,6 +1,6 @@
 {
-  "version": "1.2.7",
-  "versionlibraries":"1.2.3",
+  "version": "1.2.8",
+  "versionlibraries":"1.2.4",
   "jar": {
     "filename": "WhatsAppSenderG.jar",
     "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/WhatsAppSenderG.jar",
@@ -98,6 +98,13 @@
       "name": "webdrivermanager.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/webdrivermanager-5.3.2.jar",
       "checksum": "9c73903049f7b28387eed526cf32d31a0eca3a98068fa3132a598219d0f3345b"
+    },
+	{
+      "filename": "checker-compat-qual-2.5.5.jar",
+      "version": "2.5.5",
+      "name": "checker-compat-qual.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/checker-compat-qual-2.5.5.jar",
+      "checksum": "11d134b245e9cacc474514d2d66b5b8618f8039a1465cdc55bbc0b34e0008b7a"
     }
   ]
 }
