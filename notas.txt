@@ -1,0 +1,10 @@
+ver version chrome: google-chrome --version
+
+descargar driver: https://chromedriver.chromium.org/downloads
+
+chrome compatible en linux: Google Chrome 112.0.5615.165 
+<<<<<<< HEAD
+chrome compatible en windows: Versión 113.0.5672.64 (Build oficial) (64 bits)
+=======
+chrome compatible en windows: 
+>>>>>>> origin/master
