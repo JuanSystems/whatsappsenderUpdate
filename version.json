@@ -100,11 +100,19 @@
       "checksum": "9c73903049f7b28387eed526cf32d31a0eca3a98068fa3132a598219d0f3345b"
     },
 	{
-      "filename": "checker-compat-qual-2.5.5.jar",
-      "version": "2.5.5",
-      "name": "checker-compat-qual.jar",
-      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/checker-compat-qual-2.5.5.jar",
-      "checksum": "11d134b245e9cacc474514d2d66b5b8618f8039a1465cdc55bbc0b34e0008b7a"
-    }
+      "filename": "okhttp-3.11.0.jar",
+      "version": "3.11.0",
+      "name": "okhttp.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/okhttp-3.11.0.jar",
+      "checksum": "e27c7742448f816da1cac72b4ca283b0d7920749e09f5dd0ac017e40714a2efe"
+    },
+	{
+      "filename": "okio-1.14.0.jar",
+      "version": "1.14.0",
+      "name": "okio.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/okio-1.14.0.jar",
+      "checksum": "4633c331f50642ebe795dc089d6a5928aff43071c9d17e7840a009eea2fe95a3"
+    },
+
   ]
 }
