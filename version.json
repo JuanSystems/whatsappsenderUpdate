@@ -1,6 +1,6 @@
 {
-  "version": "1.6.2",
-  "versionlibraries":"1.6.3",
+  "version": "1.6.3",
+  "versionlibraries":"1.6.4",
   "jar": {
     "filename": "WhatsAppSenderG.jar",
     "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/WhatsAppSenderG.jar",
@@ -112,7 +112,7 @@
       "name": "okio.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/okio-1.14.0.jar",
       "checksum": "4633c331f50642ebe795dc089d6a5928aff43071c9d17e7840a009eea2fe95a3"
-    },
+    }
 
   ]
 }
