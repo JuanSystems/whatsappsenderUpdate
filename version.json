@@ -1,6 +1,6 @@
 {
-  "version": "1.6.9",
-  "versionlibraries":"1.6.8",
+  "version": "1.7.0",
+  "versionlibraries":"1.6.9",
   "jar": {
     "filename": "WhatsAppSenderG.jar",
     "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/WhatsAppSenderG.jar",
@@ -116,7 +116,7 @@
       "filename": "jxl-2.6.jar",
       "version": "2.6",
       "name": "jxl.jar",
-      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/okio-1.14.0.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/jxl-2.6.jar",
       "checksum": "96ae77f3f378169a81630876c5b7105e070ed941bf8f9f7062c18f7aa040d808"
     }
 
