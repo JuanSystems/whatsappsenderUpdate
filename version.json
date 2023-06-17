@@ -5,7 +5,7 @@
     "filename": "WhatsAppSenderG.jar",
     "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/WhatsAppSenderG.jar",
 	"urljson":"https://raw.githubusercontent.com/JuanSystems/WhatsAppSenderUpdate/main/version.json",
-    "checksum": "5afb9278105ce4079037d49c128324edb2421accbe3c68c3655c52936ad614f4"
+    "checksum": "060b56c2c694e275933b0aee268038a9ee3e6d2c23fbb10c5bff7928f5623395"
   },
   "libraries": [
     {
@@ -112,6 +112,12 @@
       "name": "okio.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/okio-1.14.0.jar",
       "checksum": "4633c331f50642ebe795dc089d6a5928aff43071c9d17e7840a009eea2fe95a3"
+    },{
+      "filename": "jxl-2.6.jar",
+      "version": "2.6",
+      "name": "jxl.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/okio-1.14.0.jar",
+      "checksum": "96ae77f3f378169a81630876c5b7105e070ed941bf8f9f7062c18f7aa040d808"
     }
 
   ]
