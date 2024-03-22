@@ -27,7 +27,7 @@
       "version": "25.0",
       "name": "guava.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/guava-25.0-jre.jar",
-      "checksum": "73fd4341776428c7e0e5c18a7c10de129475b69ab9d30aeafbb5c277bb6074fa9"
+      "checksum": "3fd4341776428c7e0e5c18a7c10de129475b69ab9d30aeafbb5c277bb6074fa9"
     },
 	{
       "filename": "jsoup-1.16.1.jar",
