@@ -1,11 +1,11 @@
 {
-  "version": "1.7.2",
-  "versionlibraries":"1.6.9",
+  "version": "1.7.3",
+  "versionlibraries":"1.7.0",
   "jar": {
     "filename": "WhatsAppSenderG.jar",
     "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/WhatsAppSenderG.jar",
 	"urljson":"https://raw.githubusercontent.com/JuanSystems/WhatsAppSenderUpdate/main/version.json",
-    "checksum": "67235623a02afc4d8a501a20188da18dccfb5946b08b68c9d68c610b51731a17"
+    "checksum": "fce40060a42eb3ab3ba0c136966de37d8d4fd586139491ce523b47b4a81d78d8"
   },
   "libraries": [
     {
@@ -118,6 +118,60 @@
       "name": "jxl.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/jxl-2.6.jar",
       "checksum": "96ae77f3f378169a81630876c5b7105e070ed941bf8f9f7062c18f7aa040d808"
+    },{
+      "filename": "poi-5.2.5.jar",
+      "version": "5.2.5",
+      "name": "poi.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-5.2.5.jar",
+      "checksum": "352e1b44a5777af2df3d7dc408cda9f75f932d0e0125fa1a7d336a13c0a663a7"
+    },{
+      "filename": "commons-io-2.15.0.jar",
+      "version": "2.15.0",
+      "name": "commons-io.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/commons-io-2.15.0.jar",
+      "checksum": "a328dad730921d197b6a9b195dffa00e41c974c2dac8fe37e84d31706bca7792"
+    },{
+      "filename": "log4j-api-2.21.1.jar",
+      "version": "2.21.1",
+      "name": "log4j-api.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/log4j-api-2.21.1.jar",
+      "checksum": "1db48e180881bef1deb502022006a025a248d8f6a26186789b0c7ce487c602d6"
+    },{
+      "filename": "log4j-core-2.20.0.jar",
+      "version": "2.20.0",
+      "name": "log4j-core.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/log4j-core-2.20.0.jar",
+      "checksum": "d6180f877ef1e2f0ba525147c2edccabbbe9d5f2977b31e20f40b77e3a160ef5"
+    },{
+      "filename": "poi-ooxml-5.2.5.jar",
+      "version": "5.2.5",
+      "name": "poi-ooxml.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-ooxml-5.2.5.jar",
+      "checksum": "c6ad01a10cefa1d2a9c1b552bd4293a3eca29b513353f1ec814041d38da9ec5b"
+    },{
+      "filename": "commons-compress-1.25.0.jar",
+      "version": "1.25.0",
+      "name": "commons-compress.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/commons-compress-1.25.0.jar",
+      "checksum": "d0ec8014ebbb0749f471803122b21796afddf2e98e194e4374622e5fbaf69f49"
+    },{
+      "filename": "xmlbeans-5.2.0.jar",
+      "version": "5.2.0",
+      "name": "xmlbeans.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/xmlbeans-5.2.0.jar",
+      "checksum": "5a344f323c049b7024edd39bbd58a38e77eb44218aad2794879e7f4ac3ca1de1"
+    },{
+      "filename": "commons-collections4-4.4.jar",
+      "version": "4.4.4",
+      "name": "commons-collections.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/commons-collections4-4.4.jar",
+      "checksum": "1df8b9430b5c8ed143d7815e403e33ef5371b2400aadbe9bda0883762e0846d1"
+    },{
+      "filename": "poi-ooxml-lite-5.2.5.jar",
+      "version": "5.2.5",
+      "name": "poi-ooxml-lite.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-ooxml-lite-5.2.5.jar",
+      "checksum": "6d4ce6736c422c52e47ffbfa08c784e1b8c188efb69583ac001a0ab16022d774"
     }
 
   ]
