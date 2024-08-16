@@ -92,13 +92,6 @@
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/thumbnailator-0.4.8.jar",
       "checksum": "baa81866b0d0cb3bdbb3a2c5141e3f91e1f037baa94b7efc645b2be0b7f1d95c"
     },
-    {
-      "filename": "webdrivermanager-5.3.2.jar",
-      "version": "5.3.2",
-      "name": "webdrivermanager.jar",
-      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/webdrivermanager-5.3.2.jar",
-      "checksum": "9c73903049f7b28387eed526cf32d31a0eca3a98068fa3132a598219d0f3345b"
-    },
 	{
       "filename": "okhttp-3.11.0.jar",
       "version": "3.11.0",
@@ -172,6 +165,78 @@
       "name": "poi-ooxml-lite.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-ooxml-lite-5.2.5.jar",
       "checksum": "6d4ce6736c422c52e47ffbfa08c784e1b8c188efb69583ac001a0ab16022d774"
+    },{
+      "filename": "jna-jpms-5.14.0.jar",
+      "version": "5.2.5",
+      "name": "poi-ooxml-lite.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-ooxml-lite-5.2.5.jar",
+      "checksum": "6d4ce6736c422c52e47ffbfa08c784e1b8c188efb69583ac001a0ab16022d774"
+    },{
+      "filename": "jna-platform-jpms-5.14.0.jar",
+      "version": "5.2.5",
+      "name": "poi-ooxml-lite.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-ooxml-lite-5.2.5.jar",
+      "checksum": "6d4ce6736c422c52e47ffbfa08c784e1b8c188efb69583ac001a0ab16022d774"
+    },{
+      "filename": "oshi-core-5.8.5.jar",
+      "version": "5.2.5",
+      "name": "poi-ooxml-lite.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-ooxml-lite-5.2.5.jar",
+      "checksum": "6d4ce6736c422c52e47ffbfa08c784e1b8c188efb69583ac001a0ab16022d774"
+    },{
+      "filename": "slf4j-api-1.7.32.jar",
+      "version": "5.2.5",
+      "name": "poi-ooxml-lite.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-ooxml-lite-5.2.5.jar",
+      "checksum": "6d4ce6736c422c52e47ffbfa08c784e1b8c188efb69583ac001a0ab16022d774"
+    },{
+      "filename": "slf4j-simple-1.7.32.jar",
+      "version": "5.2.5",
+      "name": "poi-ooxml-lite.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-ooxml-lite-5.2.5.jar",
+      "checksum": "6d4ce6736c422c52e47ffbfa08c784e1b8c188efb69583ac001a0ab16022d774"
+    },{
+      "filename": "dec-0.1.2.jar",
+      "version": "5.2.5",
+      "name": "poi-ooxml-lite.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-ooxml-lite-5.2.5.jar",
+      "checksum": "6d4ce6736c422c52e47ffbfa08c784e1b8c188efb69583ac001a0ab16022d774"
+    },{
+      "filename": "commons-lang3-3.15.0.jar",
+      "version": "5.2.5",
+      "name": "poi-ooxml-lite.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-ooxml-lite-5.2.5.jar",
+      "checksum": "6d4ce6736c422c52e47ffbfa08c784e1b8c188efb69583ac001a0ab16022d774"
+    },{
+      "filename": "httpclient5-5.2.1.jar",
+      "version": "5.2.5",
+      "name": "poi-ooxml-lite.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-ooxml-lite-5.2.5.jar",
+      "checksum": "6d4ce6736c422c52e47ffbfa08c784e1b8c188efb69583ac001a0ab16022d774"
+    },{
+      "filename": "httpcore5-5.2.jar",
+      "version": "5.2.5",
+      "name": "poi-ooxml-lite.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-ooxml-lite-5.2.5.jar",
+      "checksum": "6d4ce6736c422c52e47ffbfa08c784e1b8c188efb69583ac001a0ab16022d774"
+    },{
+      "filename": "httpcore5-h2-5.2.jar",
+      "version": "5.2.5",
+      "name": "poi-ooxml-lite.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-ooxml-lite-5.2.5.jar",
+      "checksum": "6d4ce6736c422c52e47ffbfa08c784e1b8c188efb69583ac001a0ab16022d774"
+    },{
+      "filename": "commons-codec-1.15.jar",
+      "version": "1.15",
+      "name": "commons-codec-1.15.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-ooxml-lite-5.2.5.jar",
+      "checksum": "6d4ce6736c422c52e47ffbfa08c784e1b8c188efb69583ac001a0ab16022d774"
+    }, {
+      "filename": "webdrivermanager-5.9.2.jar",
+      "version": "5.3.2",
+      "name": "webdrivermanager.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/webdrivermanager-5.9.2.jar",
+      "checksum": "9c73903049f7b28387eed526cf32d31a0eca3a98068fa3132a598219d0f3345b"
     }
 
   ]
