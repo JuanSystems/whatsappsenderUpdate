@@ -1,11 +1,11 @@
-{{
-  "version": "1.8.1",
-  "versionlibraries":"1.7.6",
+{
+  "version": "1.8.0",
+  "versionlibraries":"1.7.5",
   "jar": {
     "filename": "WhatsAppSenderG.jar",
     "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/WhatsAppSenderG.jar",
 	"urljson":"https://raw.githubusercontent.com/JuanSystems/WhatsAppSenderUpdate/main/version.json",
-    "checksum": "83b619a27d85536f7110c2cc35e9c3c8299f4ff73546ed80fd0c0e9be7923795"
+    "checksum": "15b22297e0907108b7ec772975dd69ca5db4b0d87b0f8c5cccb7ec4f8aaf8e19"
   },
   "libraries": [
     {
@@ -92,13 +92,6 @@
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/thumbnailator-0.4.8.jar",
       "checksum": "baa81866b0d0cb3bdbb3a2c5141e3f91e1f037baa94b7efc645b2be0b7f1d95c"
     },
-    {
-      "filename": "webdrivermanager-5.3.2.jar",
-      "version": "5.3.2",
-      "name": "webdrivermanager.jar",
-      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/webdrivermanager-5.3.2.jar",
-      "checksum": "9c73903049f7b28387eed526cf32d31a0eca3a98068fa3132a598219d0f3345b"
-    },
 	{
       "filename": "okhttp-3.11.0.jar",
       "version": "3.11.0",
@@ -162,7 +155,7 @@
       "checksum": "5a344f323c049b7024edd39bbd58a38e77eb44218aad2794879e7f4ac3ca1de1"
     },{
       "filename": "commons-collections4-4.4.jar",
-      "version": "4.4.4",
+      "version": "4.4",
       "name": "commons-collections.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/commons-collections4-4.4.jar",
       "checksum": "1df8b9430b5c8ed143d7815e403e33ef5371b2400aadbe9bda0883762e0846d1"
@@ -172,6 +165,78 @@
       "name": "poi-ooxml-lite.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-ooxml-lite-5.2.5.jar",
       "checksum": "6d4ce6736c422c52e47ffbfa08c784e1b8c188efb69583ac001a0ab16022d774"
+    },{
+      "filename": "jna-jpms-5.14.0.jar",
+      "version": "5.14.0",
+      "name": "jna-jpms.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/jna-jpms-5.14.0.jar",
+      "checksum": "204912ead5e0891f53aab7be346b75758abbe38bd9fb2d320bfa21bbca6905b7"
+    },{
+      "filename": "jna-platform-jpms-5.14.0.jar",
+      "version": "5.14.0",
+      "name": "jna-platform-jpms.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/jna-platform-jpms-5.14.0.jar",
+      "checksum": "60dd009545f8cef45a9e6e31cace03dc28ab335220a64b24083045eddc351d45"
+    },{
+      "filename": "oshi-core-5.8.5.jar",
+      "version": "5.8.5",
+      "name": "oshi-core.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/oshi-core-5.8.5.jar",
+      "checksum": "fe16bd8836eecf3d152585c2151322273b68237d13f223e662e0db959dd13680"
+    },{
+      "filename": "slf4j-api-1.7.32.jar",
+      "version": "1.7.32",
+      "name": "slf4j-api.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/slf4j-api-1.7.32.jar",
+      "checksum": "3624f8474c1af46d75f98bc097d7864a323c81b3808aa43689a6e1c601c027be"
+    },{
+      "filename": "slf4j-simple-1.7.32.jar",
+      "version": "1.7.32",
+      "name": "slf4j-simple.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/slf4j-simple-1.7.32.jar",
+      "checksum": "d2fdd7b73ca2019a2062d145a0d86179a58f98c8c3e35ca7c735a27b3b5621c3"
+    },{
+      "filename": "dec-0.1.2.jar",
+      "version": "0.1.2",
+      "name": "dec.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/dec-0.1.2.jar",
+      "checksum": "615c0c3efef990d77831104475fba6a1f7971388691d4bad1471ad84101f6d52"
+    },{
+      "filename": "commons-lang3-3.15.0.jar",
+      "version": "3.15.5",
+      "name": "commons-lang3.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/commons-lang3-3.15.0.jar",
+      "checksum": "4905090022def3809e97963832fc8b2421fda800853c94d3cdbf1ad3011d9756"
+    },{
+      "filename": "httpclient5-5.2.1.jar",
+      "version": "5.2.1",
+      "name": "httpclient5.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/httpclient5-5.2.1.jar",
+      "checksum": "9355f3876baf82fec13ced22c12b62d57536230836406d359459128e4f73ed51"
+    },{
+      "filename": "httpcore5-5.2.jar",
+      "version": "5.5.2",
+      "name": "httpcore5.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/httpcore5-5.2.jar",
+      "checksum": "293321cbf594d79ea8a0cb0214f75f146d17f088be17ad5ce11c2fe864df124c"
+    },{
+      "filename": "httpcore5-h2-5.2.jar",
+      "version": "5.2",
+      "name": "httpcore5-h.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/httpcore5-h2-5.2.jar",
+      "checksum": "5a087fb8c619979d492a83546f351ddadf32b28cc6a32923229f3fc777171578"
+    },{
+      "filename": "commons-codec-1.15.jar",
+      "version": "1.15",
+      "name": "commons-codec.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/commons-codec-1.15.jar",
+      "checksum": "b3e9f6d63a790109bf0d056611fbed1cf69055826defeb9894a71369d246ed63"
+    },{
+      "filename": "webdrivermanager-5.9.2.jar",
+      "version": "5.9.2",
+      "name": "webdrivermanager.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/webdrivermanager-5.9.2.jar",
+      "checksum": "964dea6ea00b2df28bb9aae3e92be5bfd8735e8b4c893b0f6fb8c4435aa541ca"
     }
 
   ]
