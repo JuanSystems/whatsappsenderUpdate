@@ -1,4 +1,4 @@
-{{
+{
   "version": "1.8.1",
   "versionlibraries":"1.7.6",
   "jar": {
@@ -173,6 +173,5 @@
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/poi-ooxml-lite-5.2.5.jar",
       "checksum": "6d4ce6736c422c52e47ffbfa08c784e1b8c188efb69583ac001a0ab16022d774"
     }
-
   ]
 }
