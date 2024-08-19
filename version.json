@@ -1,6 +1,6 @@
 {
-  "version": "1.8.2",
-  "versionlibraries":"1.7.7",
+  "version": "1.8.3",
+  "versionlibraries":"1.7.8",
   "jar": {
     "filename": "WhatsAppSenderG.jar",
     "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/WhatsAppSenderG.jar",
@@ -237,6 +237,13 @@
       "name": "webdrivermanager.jar",
       "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/webdrivermanager-5.9.2.jar",
       "checksum": "964dea6ea00b2df28bb9aae3e92be5bfd8735e8b4c893b0f6fb8c4435aa541ca"
+    },
+    {
+      "filename": "webdrivermanager-5.3.2.jar",
+      "version": "5.3.2",
+      "name": "webdrivermanager.jar",
+      "url": "https://github.com/JuanSystems/WhatsAppSenderUpdate/raw/main/lib/webdrivermanager-5.3.2.jar",
+      "checksum": "9c73903049f7b28387eed526cf32d31a0eca3a98068fa3132a598219d0f3345b"
     }
 
   ]
