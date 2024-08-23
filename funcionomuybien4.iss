@@ -1,7 +1,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "WhatsAppSender"
-#define MyAppVersion "1.7.9"
+#define MyAppVersion "1.8.0"
 #define MyAppExeName "WhatsAppSenderG.jar"
 #define MyAppAssocName MyAppName + " File"
 #define MyAppAssocExt ".jar"
